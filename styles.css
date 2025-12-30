@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 40px;
+}
+
+.centred {
+  display: block;
+  text-align: center;
+}
+
+.centred input,
+.centred button {
+  display: block;
+  margin: 10px auto;
+}
+
+.redX {
+  display: none;
+  text-align: center;
+}
+
+.actual_website {
+  display: none;
+  text-align: center;
+}
